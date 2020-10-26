@@ -19,7 +19,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-512941%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-514415%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -50,10 +50,15 @@ Sunday       23 commits     ████████░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     23 mins             ███████░░░░░░░░░░░░░░░░░░   31.45% 
+Text                     23 mins             ███████░░░░░░░░░░░░░░░░░░   31.42% 
+JavaScript               13 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.75% 
+YAML                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.98% 
+Git Config               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.02%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+IssueTracker-16          43 mins             ██████████████░░░░░░░░░░░   58.0% 
+javascript-w5-accountbook31 mins             ██████████░░░░░░░░░░░░░░░   42.0%
 
 ```
 
