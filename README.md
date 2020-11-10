@@ -19,7 +19,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-54-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-610225%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-511504%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -65,7 +65,7 @@ javascript-w5-accountbook3 mins              ░░░░░░░░░░░�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               7 repos             ██████████████░░░░░░░░░░░   58.33% 
+JavaScript               8 repos             ████████████████░░░░░░░░░   66.67% 
 Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
 CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
 Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
