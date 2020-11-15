@@ -19,7 +19,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-624919%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-638348%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -66,7 +66,7 @@ javascript-w1-airbnb     4 mins              ░░░░░░░░░░░�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               8 repos             ████████████████░░░░░░░░░   66.67% 
+JavaScript               7 repos             ██████████████░░░░░░░░░░░   58.33% 
 Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
 CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
 Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
