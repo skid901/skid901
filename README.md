@@ -32,10 +32,10 @@ Sunday       27 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 2 mins         █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+hongaeting-v3-be         1 hr 2 mins         █████████████████████████   100.0%
 
 ```
 
