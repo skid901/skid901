@@ -1,4 +1,6 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-760%20hrs%2040%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-54%20Thousand%20lines%20of%20code-blue)
@@ -32,10 +34,10 @@ Sunday       27 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ddd-kitchenpos           0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
