@@ -1,4 +1,6 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-828%20hrs%2049%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-54%20Thousand%20lines%20of%20code-blue)
@@ -32,14 +34,10 @@ Sunday       14 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     2 hrs 1 min         ████████████████████████░   95.54% 
-AsciiDoc                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.64% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.42% 
-Gradle                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.4%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-subway                   2 hrs               ███████████████████████░░   94.58% 
-atdd-subway-fare         6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.42%
+No Activity Tracked This Week
 
 ```
 
@@ -56,5 +54,5 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/03/2022 15:15:49 UTC
+ Last Updated on 11/03/2022 21:14:19 UTC
 <!--END_SECTION:waka-->
