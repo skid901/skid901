@@ -1,4 +1,6 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-831%20hrs%2016%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-54%20Thousand%20lines%20of%20code-blue)
@@ -32,10 +34,11 @@ Sunday       14 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   47 mins             █████████████████████░░░░   84.63% 
+Markdown                 8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   15.37%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+kotlin-racingcar         55 mins             █████████████████████████   100.0%
 
 ```
 
@@ -52,5 +55,5 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/05/2022 15:16:46 UTC
+ Last Updated on 03/05/2022 21:16:34 UTC
 <!--END_SECTION:waka-->
