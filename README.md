@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-838%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -57,5 +57,5 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/05/2022 15:17:14 UTC
+ Last Updated on 24/05/2022 21:17:09 UTC
 <!--END_SECTION:waka-->
