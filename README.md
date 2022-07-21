@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-867%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -34,10 +34,12 @@ Sunday       14 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     2 hrs 20 mins       ███████████████████████░░   93.46% 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.3% 
+GitIgnore file           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.24%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+jwp-was                  2 hrs 30 mins       █████████████████████████   100.0%
 
 ```
 
@@ -54,5 +56,5 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/07/2022 15:18:40 UTC
+ Last Updated on 21/07/2022 21:17:09 UTC
 <!--END_SECTION:waka-->
