@@ -34,10 +34,10 @@ Sunday       14 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     6 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-jwp-was                  6 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -54,5 +54,5 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2022 15:18:47 UTC
+ Last Updated on 02/10/2022 21:16:10 UTC
 <!--END_SECTION:waka-->
